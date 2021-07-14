@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/disney-plus/static/css/main.50216ad1.chunk.css",
+    "main.js": "/disney-plus/static/js/main.d83a9276.chunk.js",
+    "main.js.map": "/disney-plus/static/js/main.d83a9276.chunk.js.map",
+    "runtime-main.js": "/disney-plus/static/js/runtime-main.43adc12f.js",
+    "runtime-main.js.map": "/disney-plus/static/js/runtime-main.43adc12f.js.map",
+    "static/css/2.fc17eff5.chunk.css": "/disney-plus/static/css/2.fc17eff5.chunk.css",
+    "static/js/2.ac3ddf4c.chunk.js": "/disney-plus/static/js/2.ac3ddf4c.chunk.js",
+    "static/js/2.ac3ddf4c.chunk.js.map": "/disney-plus/static/js/2.ac3ddf4c.chunk.js.map",
+    "index.html": "/disney-plus/index.html",
+    "static/css/2.fc17eff5.chunk.css.map": "/disney-plus/static/css/2.fc17eff5.chunk.css.map",
+    "static/css/main.50216ad1.chunk.css.map": "/disney-plus/static/css/main.50216ad1.chunk.css.map",
+    "static/js/2.ac3ddf4c.chunk.js.LICENSE.txt": "/disney-plus/static/js/2.ac3ddf4c.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/disney-plus/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43adc12f.js",
+    "static/css/2.fc17eff5.chunk.css",
+    "static/js/2.ac3ddf4c.chunk.js",
+    "static/css/main.50216ad1.chunk.css",
+    "static/js/main.d83a9276.chunk.js"
+  ]
+}
